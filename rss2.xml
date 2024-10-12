@@ -15,6 +15,10 @@
     <atom:link href="https://yanjiachan.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
+	<follow_challenge>
+		<feedId>67884178742413312</feedId>
+		<userId>63405759402738688</userId>
+	</follow_challenge>
     <pubDate>Sat, 12 Oct 2024 09:24:14 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
