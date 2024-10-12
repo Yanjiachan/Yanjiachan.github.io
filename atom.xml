@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>陈CC</title>
-  <icon>http://yanjiachan.github.io/images/favicon.png</icon>
+  <icon>https://yanjiachan.github.io/images/favicon.png</icon>
   <subtitle>事毕于今，不溺于往，早登青云</subtitle>
-  <link href="http://yanjiachan.github.io/atom.xml" rel="self"/>
+  <link href="https://yanjiachan.github.io/atom.xml" rel="self"/>
   
-  <link href="http://yanjiachan.github.io/"/>
+  <link href="https://yanjiachan.github.io/"/>
   <updated>2024-10-12T09:24:14.272Z</updated>
-  <id>http://yanjiachan.github.io/</id>
+  <id>https://yanjiachan.github.io/</id>
   
   <author>
     <name>Chanyan</name>
@@ -22,8 +22,8 @@
   
   <entry>
     <title>笔记</title>
-    <link href="http://yanjiachan.github.io/2024/10/12/note/"/>
-    <id>http://yanjiachan.github.io/2024/10/12/note/</id>
+    <link href="https://yanjiachan.github.io/2024/10/12/note/"/>
+    <id>https://yanjiachan.github.io/2024/10/12/note/</id>
     <published>2024-10-12T03:22:02.000Z</published>
     <updated>2024-10-12T09:24:14.272Z</updated>
     
@@ -36,12 +36,12 @@
     
     
     
-    <category term="日常" scheme="http://yanjiachan.github.io/categories/%E6%97%A5%E5%B8%B8/"/>
+    <category term="日常" scheme="https://yanjiachan.github.io/categories/%E6%97%A5%E5%B8%B8/"/>
     
     
-    <category term="笔记" scheme="http://yanjiachan.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    <category term="笔记" scheme="https://yanjiachan.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
     
-    <category term="日常" scheme="http://yanjiachan.github.io/tags/%E6%97%A5%E5%B8%B8/"/>
+    <category term="日常" scheme="https://yanjiachan.github.io/tags/%E6%97%A5%E5%B8%B8/"/>
     
   </entry>
   
